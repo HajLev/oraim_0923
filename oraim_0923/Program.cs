@@ -10,6 +10,8 @@ namespace oraim_0923
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sor");
+            Console.ReadKey();
         }
     }
 }
